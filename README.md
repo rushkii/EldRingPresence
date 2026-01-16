@@ -2,7 +2,7 @@
 
 A Discord Rich Presence tool for the **Elden Ring**, This application reads the game's memory to update your RPC activity.
 
-<img alt="Example" src=".github/assets/example.png" />
+<img width="600" alt="Example" src=".github/assets/example.png" />
 
 ---
 
