@@ -1,6 +1,6 @@
 <h1 align="center">Elden Ring Presence</h1>
 
-A Discord Rich Presence tool for the **Elden Ring**, This application reads the game's memory to update your RPC activity.
+A Discord Rich Presence tool for the **Elden Ring**, This application reads the game's memory to update your RPC activity. [[Download Now!]](https://github.com/rushkii/EldRingPresence/releases)
 
 <img width="600" alt="Example" src=".github/assets/example.png" />
 
