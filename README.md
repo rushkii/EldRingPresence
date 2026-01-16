@@ -19,3 +19,6 @@ A Discord Rich Presence tool for the **Elden Ring**, This application reads the 
 > If you want to use this application while playing in online mode, you can use the [Seamless Coop Mod](https://www.nexusmods.com/eldenring/mods/510). Please read the guide carefully on how to set up the mod, especially the section regarding game save file warnings.
 
 <img alt="Seamless Coop Mod" src=".github/assets/seamless_coop_file_save_section.png" />
+
+## Credits (Thanks to)
+- [Elden-Ring-CT-TGA](https://github.com/The-Grand-Archives/Elden-Ring-CT-TGA) ([@The-Grand-Archives](https://github.com/The-Grand-Archives/Elden-Ring-CT-TGA)): for the game pointers.
