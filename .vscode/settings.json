@@ -1,0 +1,8 @@
+{
+  "editor.insertSpaces": true,
+  "files.trimTrailingWhitespace": true,
+  "files.insertFinalNewline": true,
+  "files.trimFinalNewlines": true,
+  "files.eol": "\n",
+  "svelte.enable-ts-plugin": true
+}
